@@ -44,3 +44,4 @@ ${body}
 `);
 console.log('Built dist/employee-discount-prototype.html and dist/artifact.html');
 
+
